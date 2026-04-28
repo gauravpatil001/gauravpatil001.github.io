@@ -3,5 +3,8 @@ description: A career in BIM
 theme: minima
 author: Gaurav Patil
 
+github_username: gauravpatil001
+linkedin_username: gauravpatil001
+
 plugins:
   - jekyll-feed
