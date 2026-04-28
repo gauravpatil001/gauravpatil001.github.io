@@ -1,0 +1,7 @@
+title: A career in BIM
+   description: A career in BIM
+   theme: minima
+   author: Gaurav Patil
+   
+   plugins:
+     - jekyll-feed
