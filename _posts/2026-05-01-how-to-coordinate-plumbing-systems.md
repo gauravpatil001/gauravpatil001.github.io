@@ -1,4 +1,4 @@
 ---
-title: "How to coordinate mechanical systems"
+title: "How to coordinate plumbing systems"
 date: 2026-05-01
 ---
