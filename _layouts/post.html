@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<article class="post">
+  <header class="post-header">
+    <a class="back-link" href="{{ '/' | relative_url }}"><span aria-hidden="true">←</span> Home</a>
+    <h1>{{ page.title | escape }}</h1>
+    <div class="post-meta">
+      <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
+      <span aria-hidden="true">·</span>
+      <span>{{ content | number_of_words | divided_by: 200 | plus: 1 }} min read</span>
+    </div>
+  </header>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+</article>

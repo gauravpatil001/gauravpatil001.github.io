@@ -1,5 +1,5 @@
-title: A career in BIM
-description: My notes on a career in BIM and engineering.
+title: Model & Method
+description: Essays on BIM, engineering practice, and professional growth.
 theme: minima
 author: Gaurav Patil
 
@@ -8,3 +8,15 @@ linkedin_username: gauravpatil001
 
 plugins:
   - jekyll-feed
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page

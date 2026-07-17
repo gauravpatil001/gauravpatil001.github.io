@@ -1,0 +1,26 @@
+---
+layout: default
+---
+<section class="home-intro" aria-labelledby="site-heading">
+  <h1 id="site-heading">{{ site.title }}</h1>
+  <p class="home-description">{{ site.description }}</p>
+</section>
+
+<section class="post-index" aria-label="Articles">
+  {% if site.posts.size > 0 %}
+    <ol class="post-list">
+      {% for post in site.posts %}
+        <li class="post-list-item">
+          <article>
+            <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
+            <h3><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3>
+            <p>{{ post.excerpt | strip_html | normalize_whitespace | truncate: 210 }}</p>
+            <a class="read-link" href="{{ post.url | relative_url }}" aria-label="Read {{ post.title | escape }}">Read article <span aria-hidden="true">→</span></a>
+          </article>
+        </li>
+      {% endfor %}
+    </ol>
+  {% else %}
+    <p class="empty-state">No articles have been published yet.</p>
+  {% endif %}
+</section>
