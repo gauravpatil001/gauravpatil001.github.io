@@ -83,7 +83,7 @@ a:focus-visible {
 }
 
 .header-inner {
-  min-height: 5rem;
+  min-height: 4.25rem;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -127,7 +127,7 @@ a:focus-visible {
 }
 
 .home-intro {
-  padding: 5rem 0 4rem;
+  padding: 3rem 0 2.5rem;
   border-bottom: 1px solid var(--rule);
 }
 
@@ -158,7 +158,7 @@ h3 {
 }
 
 .post-index {
-  padding: 2.5rem 0 3rem;
+  padding: 0 0 2rem;
 }
 
 .post-list {
@@ -168,7 +168,7 @@ h3 {
 }
 
 .post-list-item {
-  padding: 2rem 0;
+  padding: 1.5rem 0;
 }
 
 .post-list-item + .post-list-item {
@@ -331,11 +331,15 @@ h3 {
   }
 
   .home-intro {
-    padding: 3.5rem 0 3rem;
+    padding: 2.5rem 0 2rem;
   }
 
   .post-index {
-    padding: 2rem 0 2.5rem;
+    padding: 0 0 2rem;
+  }
+
+  .post-list-item {
+    padding: 1.25rem 0;
   }
 
   .post,
