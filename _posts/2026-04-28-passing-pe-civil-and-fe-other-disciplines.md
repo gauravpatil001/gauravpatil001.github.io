@@ -1,6 +1,7 @@
 ---
 title: "Passing the PE Civil Construction and FE Other Disciplines in 9 months"
 date: 2026-04-28
+description: "A practical preparation strategy for passing the FE Other Disciplines and PE Civil Construction exams while working full time."
 ---
 
 I am providing a long post to cover my strategy for both exams here. I believe that if you wish to appear for both in the same year, you need to prepare accordingly.

@@ -1,13 +1,23 @@
 title: Model & Method
 description: Essays on BIM, engineering practice, and professional growth.
+url: https://gauravpatil001.github.io
+baseurl: ""
 theme: minima
 author: Gaurav Patil
 
 github_username: gauravpatil001
 linkedin_username: gauravpatil001
 
+social:
+  name: Gaurav Patil
+  links:
+    - https://github.com/gauravpatil001
+    - https://www.linkedin.com/in/gauravpatil001/
+
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 defaults:
   - scope:

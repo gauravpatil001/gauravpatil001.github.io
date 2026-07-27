@@ -1,6 +1,7 @@
 ---
 title: "Drones in BIM: A Program Management Approach"
 date: 2026-07-26
+description: "A program management framework for aligning drone hardware, software, governance, stakeholders, and benefits across the BIM lifecycle."
 ---
 
 At one point in my career as a BIM engineer, I had to look beyond building models and, quite literally, look down on the buildings themselves. This need often arises as the scope of work expands from the building scale to the site scale. At that point, drones can become an important component of the BIM technology stack. This article is from the perspective of a BIM engineer at an owner company that designs, constructs and operates its own data centers. It takes inspiration from PMI's *The Standard for Program Management: Fifth Edition* to provide a structured approach.
@@ -40,9 +41,8 @@ Hardware and software components go hand in hand. The intended benefits should d
 A typical list of hardware requirements for an owner company would include:
 
 - High-resolution cameras
-- RTK or PPK
-- Ground Control Points for survey control
-- Docks
+- RTK or PPK or Ground Control Points
+- Dock-based drones
 - Redundant batteries
 - Redundant drones
 
@@ -58,7 +58,7 @@ A typical list of software requirements for an owner company would include:
 
 Once the program is in place and ready to ramp, the availability of certified remote pilots can become a hurdle. An owner's construction projects may be located at sites across the country. The drone program should adequately support all sites to meet the business objectives. A single remote pilot traveling to each site on a given cadence will not scale and will be cost-prohibitive.
 
-Developing on-site capabilities with in-house certified remote pilots should be the preferred low-cost, high-return and quick-turnaround option. Another viable option is to utilize BVLOS and dock drones for remote data capture. When in-house development is not possible, the program should look outward for external support. This is a high-cost, high-return option with turnaround times ranging from quick to slow. It outsources the data-gathering step to an external contractor while keeping processing and post-processing on the same in-house platform. External support can range from an on-site member of the general contractor's or subcontractor's team to an on-demand service from a vendor. An on-demand service may have a slower turnaround due to the remoteness of the site and the requested flight cadence.
+Developing on-site capabilities with in-house certified remote pilots should be the preferred low-cost, high-return and quick-turnaround option. Another viable option is to utilize BVLOS and dock-based drones for remote data capture. When in-house development is not possible, the program should look outward for external support. This is a high-cost, high-return option with turnaround times ranging from quick to slow. It outsources the data-gathering step to an external contractor while keeping processing and post-processing on the same in-house platform. External support can range from an on-site member of the general contractor's or subcontractor's team to an on-demand service from a vendor. An on-demand service may have a slower turnaround due to the remoteness of the site and the requested flight cadence.
 
 The drone program should perform a comparative analysis of each option over time, accounting for typical project schedules and site locations. The goal is to move toward in-house, on-site capabilities as the program ramps.
 
@@ -139,7 +139,7 @@ Program control interacts closely with program monitoring. Measures should be ta
 
 Following a market survey, the program team selected DroneDeploy as the cloud SaaS processing platform. Because the program was not subject to federal procurement requirements, the team selected the DJI Matrice 4E. The team had one remote pilot with FAA Part 107 certification. Given the required cadence, it was not feasible for that person to travel to the remote site for every flight. The pilot conducted the initial flight, and subsequent flights relied on DroneDeploy's on-demand flight service to remain within the same software environment.
 
-Based on program monitoring and control, the team appointed a member of the on-site team as the drone program's site manager. This person worked toward certification and used the DJI Matrice 4E for weekly flights. This approach reduced costs and turnaround time compared with relying on external service providers to schedule flights. The flight plan followed a crisscross pattern to capture survey-grade data and generate 3D models.
+Based on program monitoring and control, the team appointed a member of the on-site team as the drone program's site manager. This person worked toward certification and used the DJI Matrice 4E for weekly flights. This approach reduced costs and turnaround time compared with relying on external service providers to schedule flights. The flight plan followed a crisscross pattern to capture survey-level data and generate 3D models.
 
 Given the site's remoteness, PPK and Ground Control Points were used instead of RTK. The Ground Control Points were placed in consistent locations, with a minimum of three captured during each flight. The team had six batteries, four of which were required to cover the entire site. The two spare batteries helped compensate for reduced battery performance in adverse weather conditions, such as high winds.
 

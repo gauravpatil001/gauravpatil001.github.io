@@ -1,6 +1,7 @@
 ---
 title: "How I Scored 331 on the GRE: A Six-Week Study Plan"
 date: 2026-07-16
+description: "The six-week study plan, resources, and practice methods I used to score 331 on the GRE while preparing for graduate school."
 ---
 
 *This blog post is adapted from [my own YouTube video](https://www.youtube.com/watch?v=0GL5Fav9DNs&t=52s), originally published in October 2020.*
