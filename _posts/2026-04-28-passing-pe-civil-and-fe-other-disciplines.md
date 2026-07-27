@@ -1,39 +1,91 @@
 ---
-title: "Passing the PE Civil Construction and FE Other Disciplines in 9 months"
+title: "Passing the PE Civil Construction and FE Other Disciplines in Nine Months"
 date: 2026-04-28
 description: "A practical preparation strategy for passing the FE Other Disciplines and PE Civil Construction exams while working full time."
 ---
 
-I am providing a long post to cover my strategy for both exams here. I believe that if you wish to appear for both in the same year, you need to prepare accordingly.
+I passed the FE Other Disciplines and PE Civil Construction exams within nine months while working full time. If you plan to take both exams in the same year, the sequence matters as much as the study plan. This is the strategy I followed.
 
-My initial plan was to take the PE Architectural Engineering (PE AE), given the nature of my work involving multiple disciplines. With this in mind, I chose to appear for the FE Other Disciplines (FE OD), which had the most syllabus overlap with PE AE. I started my preparation in early April 2025 and appeared for the FE OD at the end of May 2025. I had to take the FE OD by May to save time for PE AE, which is offered once a year in October, and to allow a second chance in June, in the subsequent quarter, if I ended up failing in May.
+## Why I started with the FE Other Disciplines
 
-Upon passing the FE OD, I bought the NCEES Practice Exam for PE AE. I quickly realized that the questions and syllabus were too vast to cover in four months. Furthermore, there was a dearth of resources for PE AE, and the exam was offered only once a year. The risk-benefit ratio was not favorable. Thus, I pivoted to PE Civil Construction (PE CC), which was the next best exam given the nature of my work.
+My initial plan was to take the PE Architectural Engineering (PE AE), given the nature of my multidisciplinary work. With that goal in mind, I chose the FE Other Disciplines (FE OD), which had the greatest syllabus overlap with the PE AE.
 
-My preparation strategy remained the same for both FE & PE. I have summarized it below as a flow, to the best of my ability.
+I began preparing in early April 2025 and took the FE OD at the end of May. Taking it by May preserved enough time to prepare for the PE AE, which was offered once a year in October. It also left room for another FE attempt in the subsequent quarter if I did not pass in May.
 
-Start with the Syllabus, and make sure you know it completely. The Syllabus will guide your preparation henceforth.
+## Why I pivoted to PE Civil Construction
 
-Get the Handbook, and do one thorough reading while referring to the Syllabus. If a topic is mentioned in the Syllabus, then you definitely need to cover it from the Handbook.
+After passing the FE OD, I bought the NCEES practice exam for the PE AE. I quickly realized that its syllabus and questions were too broad to cover in four months. Study resources were also limited, and the exam's once-a-year schedule increased the cost of an unsuccessful attempt.
 
-Then get the NCEES Practice Exam and dive right in. This will give you a reality check of your current knowledge and how much more you have to study. The NCEES Practice Exam will not cover all the topics from the Syllabus, but it is still the most reliable source for the kind of questions you will face in the actual exam.
+The risk-benefit ratio was not favorable, so I pivoted to the PE Civil Construction (PE CC), which was the next-best fit for my work.
 
-Next, ensure your basic fundamentals are clear. Get books that help in this regard. For the FE OD, it was the 'PPI FE Other Disciplines Review Manual', and for PE CC, it was the 'PPI PE Civil Reference Manual' and the 'PPI Construction Depth Reference Manual'.
+## The preparation framework I used for both exams
 
-Upon completing the first reading of these books, move on to solving questions. You need a rich question bank that resembles the exam closely. You also need the ability to solve questions based on custom topics from the syllabus. I utilized 'PrepFE' for the FE OD and 'PPI2Pass' for the PE CC. I also relied on 'The Essential Guide to Passing the Construction Civil PE Exam Written in the Form of Questions' for the PE CC.
+Although I changed PE disciplines, my preparation framework remained the same for both the FE and PE.
 
-Always remember that if you refer to the given solution for a problem you couldn’t solve, your goal must be to ensure that you never get a similar question wrong again. This brings back seriousness when going through the given solutions. It is a wasted effort if you later get a similar question wrong after having gone through a given solution earlier.
+### 1. Start with the exam syllabus
 
-For PE CC, the Codes and Standards were crucial. Please make sure you get digital versions of all of them. The questions based on these were low-hanging fruits. Once you know which reference and which chapter the question is referring to, solving them becomes much simpler. However, if you get lost while searching, you will lose a lot of time. Answering these questions can range from under a minute to over five minutes if you get lost while searching. Thus, be very familiar with the Codes and Standards, and know their chapters well. Remember that in the exam, you cannot search the entire reference, but only within chapters.
+Read the syllabus closely and make sure you understand its complete scope. Use it as the organizing structure for everything that follows.
 
-At this point in your preparation, you are aware of the required level of preparation, what types of questions are easy for you, and which topics are still confusing or ones you feel unprepared for. Start making a list of all of these. This list can follow the Syllabus. You might have to revisit the basic fundamentals for those topics. You will end up revising certain topics a handful of times until you feel confident with them.
+### 2. Read the handbook alongside the syllabus
 
-This is now a good time to schedule your exam.
+Complete one thorough reading of the handbook while referring to the syllabus. If a topic appears in the syllabus, make sure you cover the corresponding handbook material.
 
-Prior to the exam day, the last few days are critical. This is when you will solve the NCEES Practice Exam once more. Although the actual exam is slightly more difficult, the NCEES Practice Exam helps recalibrate the difficulty level of the questions asked. When you end up solving super difficult questions from the question banks, you start feeling that the entire exam will be at that same difficulty level. This leads to overthinking on simpler questions, thus wasting precious minutes. Recalibrating your preparation to the NCEES Practice Exam before the actual exam will make you better prepared.
+### 3. Establish a baseline with the NCEES practice exam
 
-On the exam day, flag questions for which you don't see a clear path to arriving at the answer. Your goal is to do a first pass through all the questions and get all the low-hanging fruits. On the second pass, focus on flagged questions that pertain to Codes and Standards. The answers for these are quite straightforward, and you should be able to find them in the references. The third pass is for the difficult questions that you have no clue about. These are the questions where you would need to rigorously search through the handbook. Towards the end, don't leave any questions unanswered, and take your best logical guess.
+Take the official practice exam early. It provides a reality check on your current knowledge and reveals how much more you need to study. It will not cover every syllabus topic, but it remains the most reliable indication of the kinds of questions you will face.
 
-This marks the end of my strategy. These exams are quite tough. Studying with a full-time job makes them all the more difficult.
+### 4. Strengthen your fundamentals
+
+Use review books to rebuild any weak foundations. For the FE OD, I used the *PPI FE Other Disciplines Review Manual*. For the PE CC, I used the *PPI PE Civil Reference Manual* and the *PPI Construction Depth Reference Manual*.
+
+### 5. Build volume with a realistic question bank
+
+After the first reading of the review books, shift your attention to solving problems. You need a substantial question bank that resembles the exam and lets you practice specific syllabus topics.
+
+I used PrepFE for the FE OD and PPI2Pass for the PE CC. For the PE CC, I also used *The Essential Guide to Passing the Construction Civil PE Exam Written in the Form of Questions*.
+
+### 6. Treat every solution as a lesson
+
+When you consult the solution to a problem you could not solve, your goal should be to avoid missing a similar question again. Study why the solution works, identify the knowledge gap, and record the lesson. Reading a solution without changing how you approach the next problem is wasted effort.
+
+### 7. Learn the PE codes and standards
+
+The codes and standards were crucial for the PE CC. Make sure you have access to all required digital references and become familiar with how they are organized.
+
+These questions can be low-hanging fruit once you recognize the relevant reference and chapter. If you get lost while searching, however, a question that should take less than a minute can consume more than five. Know the chapters well, and practice searching the references under exam-like constraints.
+
+### 8. Maintain a list of weaknesses
+
+By this stage, you will understand the expected difficulty, the question types that come easily to you, and the topics that still feel uncertain. Maintain a list of those weaknesses using the syllabus as your structure.
+
+Revisit the fundamentals for each weak area. Some topics may require several rounds of review before you feel confident.
+
+## When to schedule the exam
+
+Schedule the exam after you understand the required level of preparation and have a realistic view of your remaining weaknesses. At that point, a fixed date can give the final phase of your preparation more structure.
+
+## The final days before the exam
+
+Use the last few days to solve the NCEES practice exam again. Although I found the actual exams slightly more difficult, returning to the official practice questions helped recalibrate my sense of the expected difficulty.
+
+Difficult third-party question banks can make every exam problem seem equally complex. That mindset leads to overthinking straightforward questions and wasting time. Repeating the official practice exam shortly before test day helped me recognize the simpler questions more quickly.
+
+## My three-pass exam-day strategy
+
+### First pass: Secure the straightforward points
+
+Flag any question for which you do not immediately see a clear path to the answer. Complete the straightforward questions first and collect as many low-hanging points as possible.
+
+### Second pass: Use the codes and standards
+
+Return to flagged questions that depend on codes and standards. Their answers are often direct once you identify the correct reference and chapter.
+
+### Third pass: Work through the hardest questions
+
+Use the remaining time for questions that require deeper handbook searches or a less obvious approach. Before time expires, answer every question and use your best logical guess where necessary.
+
+## Final thoughts
+
+The FE and PE exams are demanding, and preparing while working full time makes them more difficult. A syllabus-led plan, deliberate practice, and careful review of every mistake made the workload manageable for me.
 
 Best of luck!

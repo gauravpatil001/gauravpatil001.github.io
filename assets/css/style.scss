@@ -182,18 +182,18 @@ h3 {
   letter-spacing: 0.015em;
 }
 
-.post-list-item h3 {
+.post-list-item h2 {
   margin: 0.55rem 0 0.8rem;
   font-size: clamp(1.75rem, 4vw, 2rem);
   letter-spacing: -0.025em;
 }
 
-.post-list-item h3 a {
+.post-list-item h2 a {
   color: var(--ink);
   text-decoration: none;
 }
 
-.post-list-item h3 a:hover {
+.post-list-item h2 a:hover {
   color: var(--accent);
 }
 
@@ -259,121 +259,6 @@ h3 {
   max-width: 42rem;
 }
 
-.about-lede {
-  max-width: 38rem;
-  margin-bottom: 2rem !important;
-  color: #34383c;
-  font-size: clamp(1.35rem, 3vw, 1.6rem);
-  line-height: 1.55;
-}
-
-.about-section {
-  margin-top: 4rem;
-  padding-top: 2.5rem;
-  border-top: 1px solid var(--rule);
-}
-
-.about-eyebrow {
-  margin-bottom: 0.65rem !important;
-  color: var(--accent);
-  font: 700 0.75rem/1.4 var(--sans);
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
-}
-
-.page-content .about-section > h2,
-.page-content .about-connect > h2 {
-  margin-top: 0;
-}
-
-.about-topics {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 1px;
-  margin-top: 1.75rem;
-  border: 1px solid var(--rule);
-  background: var(--rule);
-}
-
-.about-topics > div {
-  padding: 1.35rem;
-  background: var(--paper);
-}
-
-.page-content .about-topics h3 {
-  margin: 0 0 0.65rem;
-  font-size: 1.15rem;
-}
-
-.page-content .about-topics p {
-  margin: 0;
-  color: var(--muted);
-  font-size: 0.95rem;
-  line-height: 1.55;
-}
-
-.resume-brief {
-  margin: 1.75rem 0 0;
-  border-top: 1px solid var(--rule);
-}
-
-.resume-brief > div {
-  display: grid;
-  grid-template-columns: minmax(8rem, 0.7fr) minmax(0, 1.8fr);
-  gap: 1.5rem;
-  padding: 1.15rem 0;
-  border-bottom: 1px solid var(--rule);
-}
-
-.resume-brief dt {
-  font: 700 0.78rem/1.5 var(--sans);
-  letter-spacing: 0.04em;
-  text-transform: uppercase;
-}
-
-.resume-brief dd {
-  margin: 0;
-  color: var(--muted);
-  font-size: 1rem;
-  line-height: 1.55;
-}
-
-.about-milestones {
-  margin: 1.75rem 0 0;
-  padding: 0;
-  list-style: none;
-}
-
-.about-milestones li {
-  display: grid;
-  grid-template-columns: minmax(9rem, 0.75fr) minmax(0, 1.6fr);
-  gap: 1.5rem;
-  padding: 1.15rem 0;
-  border-top: 1px solid var(--rule);
-}
-
-.about-milestones strong {
-  font-family: var(--sans);
-  font-size: 0.875rem;
-}
-
-.about-milestones span {
-  color: var(--muted);
-  font-size: 1rem;
-  line-height: 1.55;
-}
-
-.about-connect {
-  margin-top: 4rem;
-  padding: 2rem;
-  border-left: 3px solid var(--accent);
-  background: var(--paper-deep);
-}
-
-.page-content .about-connect p:last-child {
-  margin-bottom: 0;
-}
-
 .site-nav a[aria-current="page"] {
   color: var(--ink);
   text-decoration: underline;
@@ -412,6 +297,53 @@ h3 {
   border-left: 3px solid var(--accent);
   color: #41474d;
   font-style: italic;
+}
+
+.table-scroll {
+  width: 100%;
+  margin: 2rem 0;
+  overflow-x: auto;
+  border: 1px solid var(--rule);
+  border-radius: 0.2rem;
+  -webkit-overflow-scrolling: touch;
+}
+
+.table-scroll:focus-visible {
+  outline: 3px solid #d39a37;
+  outline-offset: 4px;
+}
+
+.table-scroll table {
+  width: 100%;
+  min-width: 42rem;
+  margin: 0;
+  border-collapse: collapse;
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+.table-scroll th,
+.table-scroll td {
+  padding: 0.85rem 1rem;
+  border-bottom: 1px solid var(--rule);
+  border-left: 1px solid var(--rule);
+  text-align: left;
+  vertical-align: top;
+}
+
+.table-scroll th:first-child,
+.table-scroll td:first-child {
+  border-left: 0;
+}
+
+.table-scroll tr:last-child td {
+  border-bottom: 0;
+}
+
+.table-scroll th {
+  background: var(--paper-deep);
+  font-family: var(--sans);
+  font-size: 0.8rem;
 }
 
 .post-content code {
@@ -472,24 +404,6 @@ h3 {
 
   .back-link {
     margin-bottom: 2.5rem;
-  }
-
-  .about-topics {
-    grid-template-columns: 1fr;
-  }
-
-  .about-milestones li {
-    grid-template-columns: 1fr;
-    gap: 0.4rem;
-  }
-
-  .resume-brief > div {
-    grid-template-columns: 1fr;
-    gap: 0.4rem;
-  }
-
-  .about-connect {
-    padding: 1.5rem;
   }
 
   .footer-inner {

@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+{% assign reading_time = content | number_of_words | plus: 199 | divided_by: 200 %}
 <article class="post">
   <header class="post-header">
     <a class="back-link" href="{{ '/' | relative_url }}"><span aria-hidden="true">←</span> Home</a>
@@ -8,7 +9,7 @@ layout: default
     <div class="post-meta">
       <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
       <span aria-hidden="true">·</span>
-      <span>{{ content | number_of_words | divided_by: 200 | plus: 1 }} min read</span>
+      <span>{{ reading_time }} min read</span>
     </div>
   </header>
 

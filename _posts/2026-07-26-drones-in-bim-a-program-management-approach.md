@@ -66,10 +66,14 @@ The drone program should perform a comparative analysis of each option over time
 
 A drone program should ensure harmony between stakeholder expectations and program benefits. Successful stakeholder management identifies the needs and influence of stakeholders, manages expectations and resolves conflicts, and monitors engagement by evaluating and adjusting strategies as the program evolves. For instance, in the context of a typical drone program, a Power-Interest Matrix for stakeholder management may look like this:
 
+<div class="table-scroll" role="region" aria-label="Stakeholder power-interest matrix" tabindex="0" markdown="1">
+
 | Interest | Low Power | High Power |
 | --- | --- | --- |
 | **Low Interest** | **Monitor**<br>Local Community<br>Software Platform Vendor<br>Drone Hardware Vendor<br>Other Internal Teams | **Keep Satisfied**<br>Leadership<br>FAA |
 | **High Interest** | **Keep Informed**<br>Internal Remote Pilots<br>External Remote Pilots<br>Facilities<br>Material Flow<br>Logistics<br>InfoSec<br>Security | **Manage Closely**<br>BIM Lead<br>Construction Manager<br>Design Manager<br>Engineering Lead |
+
+</div>
 
 The Power-Interest Matrix should evolve over time. As the program develops, ramps or transitions from project deliverables to operations deliverables, stakeholder positions may shift on the Power and Interest axes and require different forms of engagement.
 
