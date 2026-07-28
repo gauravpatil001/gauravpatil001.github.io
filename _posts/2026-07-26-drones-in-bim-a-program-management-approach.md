@@ -64,16 +64,36 @@ The drone program should perform a comparative analysis of each option over time
 
 ## Stakeholder Engagement and Collaboration
 
-A drone program should ensure harmony between stakeholder expectations and program benefits. Successful stakeholder management identifies the needs and influence of stakeholders, manages expectations and resolves conflicts, and monitors engagement by evaluating and adjusting strategies as the program evolves. For instance, in the context of a typical drone program, a Power-Interest Matrix for stakeholder management may look like this:
+A drone program should ensure harmony between stakeholder expectations and program benefits. Successful stakeholder management identifies the needs and influence of stakeholders, manages expectations and resolves conflicts, and monitors engagement by evaluating and adjusting strategies as the program evolves. For instance, in the context of a typical drone program, stakeholders may be grouped using a Power-Interest Matrix as follows:
 
-<div class="table-scroll" role="region" aria-label="stakeholder power-interest matrix" tabindex="0" markdown="1">
+**Low Power, Low Interest — Monitor**
 
-| Interest | Low Power | High Power |
-| --- | --- | --- |
-| **Low Interest** | **Monitor**<br>Local Community<br>Software Platform Vendor<br>Drone Hardware Vendor<br>Other Internal Teams | **Keep Satisfied**<br>Leadership<br>FAA |
-| **High Interest** | **Keep Informed**<br>Internal Remote Pilots<br>External Remote Pilots<br>Facilities<br>Material Flow<br>Logistics<br>InfoSec<br>Security | **Manage Closely**<br>BIM Lead<br>Construction Manager<br>Design Manager<br>Engineering Lead |
+- Local Community
+- Software Platform Vendor
+- Drone Hardware Vendor
+- Other Internal Teams
 
-</div>
+**High Power, Low Interest — Keep Satisfied**
+
+- Leadership
+- FAA
+
+**Low Power, High Interest — Keep Informed**
+
+- Internal Remote Pilots
+- External Remote Pilots
+- Facilities
+- Material Flow
+- Logistics
+- InfoSec
+- Security
+
+**High Power, High Interest — Manage Closely**
+
+- BIM Lead
+- Construction Manager
+- Design Manager
+- Engineering Lead
 
 The Power-Interest Matrix should evolve over time. As the program develops, ramps or transitions from project deliverables to operations deliverables, stakeholder positions may shift on the Power and Interest axes and require different forms of engagement.
 
