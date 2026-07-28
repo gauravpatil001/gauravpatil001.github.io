@@ -175,11 +175,17 @@ h3 {
   border-top: 1px solid var(--rule);
 }
 
-.post-list-item time,
+.post-list-meta,
 .post-meta {
   color: var(--muted);
   font: 500 0.8rem/1.5 var(--sans);
   letter-spacing: 0.015em;
+}
+
+.post-list-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
 }
 
 .post-list-item h2 {

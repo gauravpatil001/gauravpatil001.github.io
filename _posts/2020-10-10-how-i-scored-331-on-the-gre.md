@@ -4,7 +4,7 @@ date: 2020-10-10
 description: "The six-week study plan, resources, and practice methods I used to score 331 on the GRE while preparing for graduate school."
 ---
 
-*This blog post is adapted from [my own YouTube video](https://www.youtube.com/watch?v=0GL5Fav9DNs&t=52s), originally published in October 2020.*
+*This article is adapted from [my own YouTube video](https://www.youtube.com/watch?v=0GL5Fav9DNs&t=52s), originally published in October 2020.*
 
 I scored 331 on the GRE in my first attempt: 165 in Verbal Reasoning and 166 in Quantitative Reasoning. That score played an important role in helping me receive a fellowship and scholarship from Texas A&M University, even though I applied five months after the financial-aid deadlines.
 
