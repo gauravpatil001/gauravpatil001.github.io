@@ -21,6 +21,7 @@ plugins:
 
 exclude:
   - script
+  - vendor
 
 defaults:
   - scope:
