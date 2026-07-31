@@ -34,8 +34,6 @@ The drone program should be divided into three components:
 - Software
 - Human Resources
 
-In the United States, any drone program must be grounded in safety and legality. The FAA's Part 107 lists the regulations, operating requirements and procedures for safely flying drones. For commercial operations, such as an owner's drone program, the remote pilot must be certified under this rule.
-
 Hardware and software components go hand in hand. The intended benefits should drive their selection. For instance, a program delivering construction progress tracking will require a drone that can follow predefined flight plans and software that can produce comparative data from subsequent flights.
 
 A typical list of hardware requirements for an owner company would include:
@@ -56,7 +54,9 @@ A typical list of software requirements for an owner company would include:
 - Support across multiple types of drones
 - Post-processing capabilities
 
-Once the program is in place and ready to ramp, the availability of certified remote pilots can become a hurdle. An owner's construction projects may be located at sites across the country. The drone program should adequately support all sites to meet the business objectives. A single remote pilot traveling to each site on a given cadence will not scale and will be cost-prohibitive.
+Once the program is in place and ready to ramp, the availability of certified remote pilots can become a hurdle. In the United States, any drone program must be grounded in safety and legality. The FAA's Part 107 lists the regulations, operating requirements and procedures for safely flying drones. For commercial operations, such as an owner's drone program, the remote pilot must be certified under this rule.
+
+An owner's construction projects may be located at sites across the country. The drone program should adequately support all sites to meet the business objectives. A single remote pilot traveling to each site on a given cadence will not scale and will be cost-prohibitive.
 
 Developing on-site capabilities with in-house certified remote pilots should be the preferred low-cost, high-return and quick-turnaround option. Another viable option is to utilize BVLOS and dock-based drones for remote data capture. When in-house development is not possible, the program should look outward for external support. This is a high-cost, high-return option with turnaround times ranging from quick to slow. It outsources the data-gathering step to an external contractor while keeping processing and post-processing on the same in-house platform. External support can range from an on-site member of the general contractor's or subcontractor's team to an on-demand service from a vendor. An on-demand service may have a slower turnaround due to the remoteness of the site and the requested flight cadence.
 
